@@ -12,5 +12,11 @@
             "email": "xianan_huang@163.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    
+    "autoload": {
+        "psr-4": {
+            "yswoole\\": "yswoole"
+        }
+    }
 }
