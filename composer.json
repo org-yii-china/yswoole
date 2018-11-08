@@ -1,0 +1,16 @@
+{
+    "name": "yii-china/yswoole",
+    "description": "yii2+swoole 微服务框架",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xianan Huang",
+            "email": "xianan_huang@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
